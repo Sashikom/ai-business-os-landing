@@ -1,4 +1,4 @@
-import { Bot, Zap, BarChart3, MessageSquare, TrendingUp, Shield, Check, Star, ArrowRight } from 'lucide-react';
+import { Bot, Zap, BarChart3, MessageSquare, TrendingUp, Check, Star, ArrowRight } from 'lucide-react';
 
 function App() {
   return (
